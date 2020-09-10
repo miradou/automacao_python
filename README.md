@@ -1,4 +1,4 @@
-# automacao_python
+# Automacao_python
 Para rodar o script você precisará:
 
 No Linux:
